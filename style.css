@@ -34,6 +34,7 @@ main {
 
 .image-container {
     width: 40%;
+    overflow: hidden;
 }
 
 .content-container {
@@ -42,9 +43,9 @@ main {
 
 /* img styling */
 .image-container img {
-    width: 100%;
+    width: 119%;
     height: 100%;
-    border-radius: .5rem 0rem 0rem .5rem;
+    border-radius: 0.5rem 0rem 0rem 0.5rem;
 }
 
 /* content styling */
